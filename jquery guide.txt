@@ -1,0 +1,22 @@
+Instruction to Install AngularJS
+Open Pc at Administrator Mode.
+Install Node.js.
+Install Git.
+Open CMD on Administrator Mode.
+Type "npm install -g bower".
+Type "bower -v".
+Create a new Project in WebStorm..
+Go to Your Project Directory.
+Right Clight Select "Git Init Here".
+Press Shift & Right Click
+Select "Open Command Here".
+type "npm init" & Give details about
+Project then you'll see a package.json
+file in your project directory.
+type "bower init" & Give details about
+Project then you'll see a bower.json
+file in your project directory.
+Right Click and Select Git Bash
+Type "bower install angular --save"
+You'll see bower_components folder and angular's
+folder in it. Done.....
